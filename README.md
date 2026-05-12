@@ -1,16 +1,17 @@
-## Hi there 👋
+## hey, I'm Vasco 👋
 
-<!--
-**GodCasco/GodCasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student** · University of Minho
 
-Here are some ideas to get you started:
+---
+### about
+Computer Engineering student at Universidade do Minho.
+I work with **C**, **Haskell**, **Java**, **Python** and **SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### currently
+
+- 📖 &nbsp; studying software development fundamentals
+- 🛠️ &nbsp; building begginer level applications
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodCasco&show_icons=true&theme=tokyonight&hide_border=true)
