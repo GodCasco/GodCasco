@@ -13,5 +13,5 @@ I work with **C**, **Haskell**, **Java**, **Python** and **SQL**.
 - 📖 &nbsp; studying software development fundamentals
 - 🛠️ &nbsp; building begginer level applications
 
-
+---
 ![Activity Graph](https://github-activity-graph.vercel.app/graph?username=GodCasco&theme=tokyo-night&hide_border=true)
