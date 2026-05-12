@@ -14,4 +14,4 @@ I work with **C**, **Haskell**, **Java**, **Python** and **SQL**.
 - 🛠️ &nbsp; building begginer level applications
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodCasco&show_icons=true&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-activity-graph.vercel.app/graph?username=GodCasco&theme=tokyo-night&hide_border=true)
