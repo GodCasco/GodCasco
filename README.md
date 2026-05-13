@@ -48,9 +48,3 @@ Computer Engineering student at **Universidade do Minho**, passionate about lear
 ![Activity Graph](https://github-activity-graph.vercel.app/graph?username=GodCasco&theme=tokyo-night&hide_border=true)
 
 </div>
-
----
-
-<div align="center">
-<i>"First, solve the problem. Then, write the code." — John Johnson</i>
-</div>
