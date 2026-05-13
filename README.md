@@ -1,4 +1,4 @@
-### Hey, I'm Vasco 👋
+# Hey, I'm Vasco 👋
 
 ---
 
