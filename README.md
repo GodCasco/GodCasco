@@ -12,14 +12,13 @@ Computer Engineering student at **Universidade do Minho**, passionate about lear
 
 ---
 
-## 🚀 Projects
+## 🚀 Some Projects
 
 | &nbsp; | Project | Description | Stack |
 |--------|---------|-------------|-------|
 | 🏰 | [**Immutable-Towers**](https://github.com/GodCasco/Immutable-Towers) | Tower Defense game built in Haskell — my first deep dive into functional programming | `Haskell` |
 | ⚙️ | [**Multi-Runner**](https://github.com/GodCasco/Multi-Runner) | Command orchestration system in C using FIFOs, with Round Robin and FCFS scheduling | `C` |
 | 🗺️ | [**The Traveler's Notebook**](https://github.com/GodCasco/The-Traveler-s-Notebook) | Relational database for a travel review platform — full lifecycle from ER model to MySQL | `SQL` |
-| 🟩 | [**Wordle-Solver**](https://github.com/GodCasco/Wordle-Solver) | CLI Wordle solver in C that narrows down candidates using letter frequency analysis | `C` |
 
 ---
 
